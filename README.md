@@ -1,3 +1,6 @@
+
+</think>
+
 <h1 align="center">TexGaussian: Generating High-quality PBR Material via Octree-based 3D Gaussian Splatting</h1>
 <p align="center"><a href="https://arxiv.org/abs/2411.19654"><img src='https://img.shields.io/badge/arXiv-Paper-red?logo=arxiv&logoColor=white' alt='arXiv'></a>
 <a href='https://3d-aigc.github.io/TexGaussian/'><img src='https://img.shields.io/badge/Project_Page-Website-green?logo=googlechrome&logoColor=white' alt='Project Page'></a>
@@ -83,7 +86,7 @@ This work is built on many amazing research works and open-source projects, than
 
 If you find this work helpful, please consider citing our paper:
 
-1. arXiv verison
+1. arXiv version
 ```bibtex
 @article{xiong2024texgaussian,
   title={TexGaussian: Generating High-quality PBR Material via Octree-based 3D Gaussian Splatting},
@@ -100,7 +103,7 @@ If you find this work helpful, please consider citing our paper:
     title     = {TexGaussian: Generating High-quality PBR Material via Octree-based 3D Gaussian Splatting},
     booktitle = {Proceedings of the Computer Vision and Pattern Recognition Conference (CVPR)},
     month     = {June},
-    year      = {2025},
+    year     = {2025},
     pages     = {551-561}
 }
 ```
